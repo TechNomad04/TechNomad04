@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on:
   - 🧠 MindWeaver (AI-powered neural interface)
   - 🌍 NGO Platform (MERN Stack project for social good)
-  - 📱 Anemia Detector (Flutter + PyTorch Mobile App)
+  - 📱 HemoCycle : Anemia Monitoring (Flutter + PyTorch Mobile App)
 
 ---
 
