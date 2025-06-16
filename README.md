@@ -3,15 +3,6 @@
 
 ---
 
-### 🌟 About Me
-
-- 🔭 I’m currently working on:
-  - 🧠 MindWeaver (AI-powered neural interface)
-  - 🌍 NGO Platform (MERN Stack project for social good)
-  - 📱 HemoCycle : Anemia Monitoring (Flutter + PyTorch Mobile App)
-
----
-
 ## 🛠 Tech Stack
 
 ### 🔥 Core Stack
