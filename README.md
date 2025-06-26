@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Samiksha</h1>
-<h3 align="center">MERN Stack Developer | ML Enthusiast | AI Explorer</h3>
 
 ---
 
